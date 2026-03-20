@@ -1,5 +1,9 @@
 # [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.3.0...v) (2026-03-20)
 
+* add stage2 of personal project ([b163f9a](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/b163f9a3fac588f7a269af1f1efbcd9470044af8))
+
+# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.3.0...v) (2026-03-19)
+
 ### Features
 
 * add lab3 files ([2034e3a](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/2034e3a17300d2a8b2fb86a7fdb86a05a1b45020))
