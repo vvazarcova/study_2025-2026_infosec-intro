@@ -1,6 +1,12 @@
-# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.2...v) (2026-03-20)
+# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.3.0...v) (2026-03-19)
 
+### Features
 
+* add lab3 files ([2034e3a](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/2034e3a17300d2a8b2fb86a7fdb86a05a1b45020))
+
+### Bug Fixes
+
+* add lost files (lab output pdf and docx) ([ac3651b](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/ac3651bd8cfa6b40d6ed5d79e3d38ea368ddf517))
 
 # [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.1...v) (2026-02-20)
 
@@ -26,6 +32,7 @@
 ### Features
 
 * **main:** make course structure ([bf914ef](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/bf914efcae5e705e88204177aa46354812fe75aa))
+
 
 
 
