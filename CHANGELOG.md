@@ -1,3 +1,7 @@
+# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.2...v) (2026-03-20)
+
+
+
 # [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.1...v) (2026-02-20)
 
 
