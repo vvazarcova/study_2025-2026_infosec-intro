@@ -1,4 +1,4 @@
-# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.3.0...v) (2026-03-19)
+# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.3.0...v) (2026-03-20)
 
 ### Features
 
@@ -22,7 +22,7 @@
 
 ### Features
 
-* add lab1, presentation ([3252c71](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/3252c712ef9be42ffcc147167d4ca704a596e5c0))
+* add lab1, lab2 and presentation files ([3252c71](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/3252c712ef9be42ffcc147167d4ca704a596e5c0))
 
 
 
