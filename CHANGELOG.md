@@ -1,3 +1,5 @@
+# [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.2...v) (2026-03-20)
+
 # [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.2...v) (2026-03-19)
 
 
@@ -10,7 +12,6 @@
 * fix spelling error ([5c527ab](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/5c527ab490d9383e954805efcc133cd1d622a003))
 * fix spelling error ([affe3f8](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/affe3f85714f7961175539642848d6ede3ad58ee))
 * fix spelling error ([2c10868](https://github.com/vvazarcova/study_2025-2026_infosec-intro/commit/2c108688d853b6ed665ebd73a4f68cc7ed0842f3))
-
 
 
 # [](https://github.com/vvazarcova/study_2025-2026_infosec-intro/compare/v1.1.1...v) (2026-02-20)
